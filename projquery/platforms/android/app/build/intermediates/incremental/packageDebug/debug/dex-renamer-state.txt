@@ -1,0 +1,4 @@
+#Wed Aug 22 20:48:25 BRT 2018
+base.0=C\:\\Users\\Aluno\\Desktop\\projquery\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Aluno\\Desktop\\projquery\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
